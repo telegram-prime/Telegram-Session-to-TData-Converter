@@ -1,16 +1,17 @@
 # S2TD Converter - Telegram Accounts .session to TData Converter.
 ## Converts Telegram session format files to Telegram TData format.
  
- * Описание программы так же доступно на русском языке. См. [S2TD Coverter RUS](https://github.com/telegram-prime/) [In progress]
+ * Описание программы так же доступно на русском языке. См. [S2TD Coverter RUS](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter-RU/)
  * 描述也可以在Chineese中提供。 参见 [S2TD Coverter CN](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter-CN)
 
 
-## Converter gives to user ability to:
+## Functionality:
  - Convert Telegram .session format files to Telegram TData format;
  - Use, control and adjust device settings that used to connect to session;
  - Use unique HTTP or SOCKS5 proxy for each connection to session (multi-line supported);
- - Automatic import 2FA for TData from .json files (With Jsom Mode) or Manual 2FA input (Without Jsom Mode);
+ - Automatic import 2FA for TData from .json files (With Json Mode) or Manual 2FA input (Without Json Mode);
  - Skip bad sessions if not connected;
+ - Sort bad and good sessions to separate folders.
  - Save logs of the operation;
  - Make back-up of the source files before operation.
 
