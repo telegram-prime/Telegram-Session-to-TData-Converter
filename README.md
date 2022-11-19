@@ -17,6 +17,9 @@
 
 ## We offer FREE trial usage period for 24 hours and for that period user will be given 5 converts (operations) to test and ensure before purchase that everything works fine. 
 
+## Download:
+ - [Always Latest Release](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter/releases/latest)
+
 
 ## After trial period ended this product is available under several paid subscriptions: 
 - 1.  100  converts (operations) for 30 days period (Whichever comes first).
