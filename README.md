@@ -33,7 +33,7 @@
 ## Screenshots:
 
 ![S2TD_v 1 5 _001](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter/assets/94137664/80492234-eac2-4869-a023-cd7f8a272294) ![S2TD_v 1 5 _002](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter/assets/94137664/f2cebb7e-f3b3-49a6-b928-0ee3d6cf3ea2)
-![S2TD_v 1 5 _003](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter/assets/94137664/e097e7e0-0210-4bdd-9268-7d7543f842dc) ![S2TD_v 1 5 _004](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter/assets/94137664/9fd7d9bf-0892-44e1-bfa5-8e0463f215ad)
+![S2TD_v 1 5 _003](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter/assets/94137664/f2ed446d-7de0-4da2-a1ff-7f89fb4ae431) ![S2TD_v 1 5 _004](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter/assets/94137664/9fd7d9bf-0892-44e1-bfa5-8e0463f215ad)
 
 
 
