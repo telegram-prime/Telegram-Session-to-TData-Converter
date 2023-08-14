@@ -8,6 +8,8 @@
 ## Functionality:
  - Convert Telegram .session format files to Telegram TData format;
  - Use, control and adjust device settings that used to connect to session;
+ - Use device settings from .json file;
+ - Option to create new account's session or keep the old one;
  - Use unique HTTP or SOCKS5 proxy for each connection to session (multi-line supported);
  - Automatic import 2FA for TData from .json files (With Json Mode) or Manual 2FA input (Without Json Mode);
  - Skip bad sessions if not connected;
@@ -40,7 +42,7 @@
 
 ##  Contacts:
 - Email: manager[@]telegramprime.net
-- Telegram: @TGG_Sales
+- Telegram: [Send message](https://telegramprime.com/telegram-contact)
 
 * or via the Contact Form on our Telegram PRIME website:
 - Wеb: https://telegramprime.net/ - EN Version
