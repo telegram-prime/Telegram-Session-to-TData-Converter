@@ -32,8 +32,8 @@
 
 ## Screenshots:
 
-<img width="392" alt="S2TD_Screen_1" src="https://user-images.githubusercontent.com/94137664/199133370-bc2d93a0-8c18-4eca-9b3c-704ea21bc248.png"> <img width="391" alt="S2TD_Screen_2" src="https://user-images.githubusercontent.com/94137664/199133372-bc35a166-4f58-478b-9567-dac65fdce880.png">
-<img width="392" alt="S2TD_Screen_3" src="https://user-images.githubusercontent.com/94137664/199133373-80ff3c25-59f0-41ef-a90d-b91f9719dca2.png"> <img width="393" alt="S2TD_Screen_4" src="https://user-images.githubusercontent.com/94137664/199133375-03836862-53b0-4f77-ab65-e5037bb7cb8d.png">
+![S2TD_v 1 5 _001](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter/assets/94137664/80492234-eac2-4869-a023-cd7f8a272294) ![S2TD_v 1 5 _002](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter/assets/94137664/f2cebb7e-f3b3-49a6-b928-0ee3d6cf3ea2)
+![S2TD_v 1 5 _003](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter/assets/94137664/e097e7e0-0210-4bdd-9268-7d7543f842dc) ![S2TD_v 1 5 _004](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter/assets/94137664/9fd7d9bf-0892-44e1-bfa5-8e0463f215ad)
 
 
 
@@ -52,3 +52,7 @@
 ## Donations:
 * [Buy us a coffee :)](https://commerce.coinbase.com/checkout/a0495346-539e-48df-9b43-880a3b93dc8b)
 * Thank you!
+
+
+
+
