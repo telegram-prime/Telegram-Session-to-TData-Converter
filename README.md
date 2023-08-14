@@ -43,6 +43,7 @@
 ##  Contacts:
 - Email: manager[@]telegramprime.net
 - Telegram: [Send message](https://telegramprime.com/telegram-contact)
+- ICQ: https://icq.im/TelegramPrime
 
 * or via the Contact Form on our Telegram PRIME website:
 - Wеb: https://telegramprime.net/ - EN Version
