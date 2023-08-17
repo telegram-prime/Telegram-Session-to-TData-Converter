@@ -41,9 +41,10 @@
 
 
 ##  Contacts:
-- Email: manager[@]telegramprime.net
+- Email:    manager[@]telegramprime.net
 - Telegram: [Send message](https://telegramprime.com/telegram-contact)
-- ICQ: https://icq.im/TelegramPrime
+- ICQ:      [Send message](https://telegramprime.com/icq-contact)
+- TamTam:   [Send message](https://telegramprime.com/tamtam-contact)
 
 * or via the Contact Form on our Telegram PRIME website:
 - Wеb: https://telegramprime.net/ - EN Version
