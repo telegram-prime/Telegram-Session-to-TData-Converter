@@ -7,6 +7,7 @@
 
 ## Functionality:
  - Convert Telegram .session format files to Telegram TData format;
+ - Multi-threaded work;
  - Use, control and adjust device settings that used to connect to session;
  - Use device settings from .json file;
  - Option to create new account's session or keep the old one;
@@ -29,15 +30,13 @@
 - 2.  1000 converts (operations) for 365 days period (Whichever comes first).
 - 3.  Unlimited number of converts (operations) for lifetime period.
 
+##  [YouTube Video](https://youtu.be/CkEJTBAZ9pc)
+
 
 ## Screenshots:
 
-![S2TD_v 1 5 _001](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter/assets/94137664/80492234-eac2-4869-a023-cd7f8a272294) ![S2TD_v 1 5 _002](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter/assets/94137664/f2cebb7e-f3b3-49a6-b928-0ee3d6cf3ea2)
-![S2TD_v 1 5 _003](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter/assets/94137664/f2ed446d-7de0-4da2-a1ff-7f89fb4ae431) ![S2TD_v 1 5 _004](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter/assets/94137664/9fd7d9bf-0892-44e1-bfa5-8e0463f215ad)
-
-
-
-- [YouTube Video](https://youtu.be/_U3eIo_22J0)
+![S2TD_v 1 6 _EN_001](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter/assets/94137664/a9cf26a5-7d91-4159-9742-5a3dba4bafb9) ![S2TD_v 1 6 _EN_002](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter/assets/94137664/e120f79f-59be-4825-85e0-565ade704c5e)
+![S2TD_v 1 6 _EN_003](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter/assets/94137664/e51db02f-a80c-49d5-ae12-e1f4a8cf65f0) ![S2TD_v 1 6 _EN_004](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter/assets/94137664/ebff620c-2d9d-4580-bdae-782ef8ce5808)
 
 
 ##  Contacts:
@@ -45,6 +44,7 @@
 - Telegram: [Send message](https://telegramprime.com/telegram-contact)
 - ICQ:      [Send message](https://telegramprime.com/icq-contact)
 - TamTam:   [Send message](https://telegramprime.com/tamtam-contact)
+- Element:  [Send message](https://telegramprime.net/element-contact)
 
 * or via the Contact Form on our Telegram PRIME website:
 - Wеb: https://telegramprime.net/ - EN Version
