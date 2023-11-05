@@ -54,7 +54,7 @@
 
 
 ## Donations:
-* [Buy us a coffee :)](https://commerce.coinbase.com/checkout/a0495346-539e-48df-9b43-880a3b93dc8b)
+* [Buy us a coffee :)](https://nowpayments.io/donation/telegramprime)
 * Thank you!
 
 
