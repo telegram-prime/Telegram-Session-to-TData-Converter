@@ -30,7 +30,9 @@
 - 2.  1000 converts (operations) for 365 days period (Whichever comes first).
 - 3.  Unlimited number of converts (operations) for lifetime period.
 
-##  [YouTube Video](https://youtu.be/CkEJTBAZ9pc)
+## Video
+
+- [YouTube](https://youtu.be/CkEJTBAZ9pc)
 
 
 ## Screenshots:
