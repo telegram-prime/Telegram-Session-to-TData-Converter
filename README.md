@@ -1,21 +1,23 @@
-# S2TD Converter - Telegram Accounts .session to TData Converter.
-## Converts Telegram session format files to Telegram TData format.
+# S2TD Converter - Telegram Accounts SESSION to TDATA Converter.
+## Converts Telegram SESSION or SESSION+JSON format files to Telegram TDATA format.
  
  * Описание программы так же доступно на русском языке. См. [S2TD Coverter RUS](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter-RU/)
  * 描述也可以在Chineese中提供。 参见 [S2TD Coverter CN](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter-CN)
 
 
 ## Functionality:
- - Convert Telegram .session format files to Telegram TData format;
- - Multi-threaded work;
- - Use, control and adjust device settings that used to connect to session;
- - Use device settings from .json file;
- - Option to create new account's session or keep the old one;
- - Use unique HTTP or SOCKS5 proxy for each connection to session (multi-line supported);
- - Automatic import 2FA for TData from .json files (With Json Mode) or Manual 2FA input (Without Json Mode);
- - Skip bad sessions if not connected;
- - Sort bad and good sessions to separate folders.
- - Save logs of the operation;
+ - Convert Telegram SESSION or SESSION+JSON format files to Telegram TDATA format.
+ - Multi-threaded work.
+ - Use, control and adjust device settings that used to connect to session.
+ - Use device settings from JSON file.
+ - Option to set custom number of connection re-tries and connection delays.
+ - Supports the option to disable other sessions on the account during conversion or re-authorization.
+ - Flexible configuration of emulation of devices used to connect to the session.
+ - Use unique HTTP or SOCKS5 proxy for each connection to session (multi-line supported).
+ - Automatic import 2FA for TDATA from JSON files (With JSON Mode) or Manual 2FA input (Without JSON Mode).
+ - Skip bad sessions if not connected.
+ - Sorting valid and invalid accounts into different folders.
+ - Save logs of the operation.
  - Make back-up of the source files before operation.
 
 
@@ -26,9 +28,10 @@
 
 
 ## After trial period ended this product is available under several paid subscriptions: 
-- 1.  100  converts (operations) for 30 days period (Whichever comes first).
-- 2.  1000 converts (operations) for 365 days period (Whichever comes first).
+- 1.  1'000  converts (operations) for 30 days period (Whichever comes first).
+- 2.  10'000 converts (operations) for 365 days period (Whichever comes first).
 - 3.  Unlimited number of converts (operations) for lifetime period.
+
 
 ## Video
 
@@ -37,26 +40,20 @@
 
 ## Screenshots:
 
-![S2TD_v 1 6 _EN_001](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter/assets/94137664/a9cf26a5-7d91-4159-9742-5a3dba4bafb9) ![S2TD_v 1 6 _EN_002](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter/assets/94137664/e120f79f-59be-4825-85e0-565ade704c5e)
-![S2TD_v 1 6 _EN_003](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter/assets/94137664/e51db02f-a80c-49d5-ae12-e1f4a8cf65f0) ![S2TD_v 1 6 _EN_004](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter/assets/94137664/ebff620c-2d9d-4580-bdae-782ef8ce5808)
+<img width="799" alt="S2TD" src="https://github.com/user-attachments/assets/ce8dbbcd-b200-40bf-ba5c-113983a55ab8" />
 
 
 ##  Contacts:
 - Email:    manager[@]telegramprime.net
-- Telegram: [Send message](https://telegramprime.com/telegram-contact)
-- ICQ:      [Send message](https://telegramprime.com/icq-contact)
-- TamTam:   [Send message](https://telegramprime.com/tamtam-contact)
+- Telegram: [Send message](https://telegramprime.net/telegram-contact)
+- TamTam:   [Send message](https://telegramprime.net/tamtam-contact)
 - Element:  [Send message](https://telegramprime.net/element-contact)
 
-* or via the Contact Form on our Telegram PRIME website:
+* or via the Contact Form on a website:
 - Wеb: https://telegramprime.net/ - EN Version
 - Wеb: https://telegramprime.com/ - RU Version
 
 
 ## Donations:
-* [Buy us a coffee :)](https://nowpayments.io/donation/telegramprime)
+* [Buy us a coffee :)](https://commerce.coinbase.com/checkout/a0495346-539e-48df-9b43-880a3b93dc8b)
 * Thank you!
-
-
-
-
