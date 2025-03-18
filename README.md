@@ -28,9 +28,9 @@
 
 
 ## After trial period ended this product is available under several paid subscriptions: 
-- 1.  1'000  converts (operations) for 30 days period (Whichever comes first).
-- 2.  10'000 converts (operations) for 365 days period (Whichever comes first).
-- 3.  Unlimited number of converts (operations) for lifetime period.
+- 1'000  converts (operations) for 30 days period (Whichever comes first).
+- 10'000 converts (operations) for 365 days period (Whichever comes first).
+- Unlimited number of converts (operations) for lifetime period.
 
 
 ## Video
