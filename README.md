@@ -1,59 +1,86 @@
-# S2TD Converter - Telegram Accounts SESSION to TDATA Converter.
-## Converts Telegram SESSION or SESSION+JSON format files to Telegram TDATA format.
- 
- * Описание программы так же доступно на русском языке. См. [S2TD Coverter RUS](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter-RU/)
- * 描述也可以在Chineese中提供。 参见 [S2TD Coverter CN](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter-CN)
+# S2TD Converter – Telegram **SESSION → TDATA**  
+A tool that converts Telegram session files (SESSION or SESSION+JSON) to the TDATA format used by Telegram Prime and similar clients.
 
+---
 
-## Functionality:
- - Convert Telegram SESSION or SESSION+JSON format files to Telegram TDATA format.
- - Multi-threaded work.
- - Use, control and adjust device settings that used to connect to session.
- - Use device settings from JSON file.
- - Option to set custom number of connection re-tries and connection delays.
- - Supports the option to disable other sessions on the account during conversion or re-authorization.
- - Flexible configuration of emulation of devices used to connect to the session.
- - Use unique HTTP or SOCKS5 proxy for each connection to session (multi-line supported).
- - Automatic import 2FA for TDATA from JSON files (With JSON Mode) or Manual 2FA input (Without JSON Mode).
- - Skip bad sessions if not connected.
- - Sorting valid and invalid accounts into different folders.
- - Save logs of the operation.
- - Make back-up of the source files before operation.
+## 📚 Multilingual support
+- English – this page  
+- Русский – [S2TD Converter RU](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter-RU/)  
+- 简体中文 – [S2TD Converter CN](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter-CN)
 
+---
 
-## We offer FREE trial usage period for 24 hours and for that period user will be given 5 converts (operations) to test and ensure before purchase that everything works fine. 
+## ⚙️ Core features
 
-## Download:
- - [Always Latest Release](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter/releases/latest)
+| Feature | Description |
+| --------|-------------|
+| **SESSION / SESSION+JSON → TDATA** | Transforms Telegram session files into a TDATA file. |
+| **Multithreading** | Process multiple files in parallel for faster bulk conversion. |
+| **Device configuration** | Use and adjust the device settings that were used to connect to the session. |
+| **Cold Conversion** | Option to convert SESSION+JSON without connecting to the account. |
+| **Old Layer Compatibility** | Option to set compatibility with old Telegram layer or save it as a new layer |
+| **JSON‑based settings** | Import device settings from a JSON file when available. |
+| **Custom retry / delay** | Set how many connection retries and pause between attempts. |
+| **Disable other sessions** | Optionally disconnect all other active sessions on the account during conversion or re‑authorization. |
+| **Device emulation** | Flexible configuration of device emulation used for connecting to the session. |
+| **Proxy support** | Use a unique HTTP or SOCKS5 proxy for each connection (multi‑line supported). |
+| **2FA handling** | Automatic import of 2FA from JSON files (JSON mode) or manual input (non‑JSON mode). |
+| **Skip bad sessions** | If a session cannot be connected to, it is simply skipped. |
+| **Sorting** | Valid and invalid accounts are sorted into separate folders. |
+| **Logging** | Full operation log is saved for troubleshooting. |
+| **Backup** | Source files are backed up before any changes. |
 
+---
 
-## After trial period ended this product is available under several paid subscriptions: 
-- 1'000  converts (operations) for 30 days period (Whichever comes first).
-- 10'000 converts (operations) for 365 days period (Whichever comes first).
-- Unlimited number of converts (operations) for lifetime period.
+## ⏱️ Free trial
 
+- 24‑hour trial period  
+- During the trial you can perform 5 conversions (operations) on up to 25 accounts each – try it risk‑free.
 
-## Video
+---
+
+## 💰 Paid plans
+
+| Plan | Limit / Duration |
+|------|------------------|
+| **30 days / 1 000 operations** | Whichever comes first |
+| **365 days / 10 000 operations** | Whichever comes first |
+| **Lifetime / Unlimited** | Unlimited conversions |
+
+---
+
+## 📥 Download
+
+- **Always Latest Release** – [GitHub](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter/releases/latest)
+
+---
+
+## 🎬 Video demo
 
 - [YouTube](https://youtu.be/CkEJTBAZ9pc)
 
+---
 
-## Screenshots:
+## 🖼️ Screenshots
 
-<img width="799" alt="S2TD" src="https://github.com/user-attachments/assets/ce8dbbcd-b200-40bf-ba5c-113983a55ab8" />
+<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/da0723ce-9814-45ef-9467-60423ddb87de" />
 
+---
 
-##  Contacts:
-- Email:    manager[@]telegramprime.net
-- Telegram: [Send message](https://telegramprime.net/telegram-contact)
-- TamTam:   [Send message](https://telegramprime.net/tamtam-contact)
-- Element:  [Send message](https://telegramprime.net/element-contact)
+## 📬 Contact & support
 
-* or via the Contact Form on a website:
-- Wеb: https://telegramprime.net/ - EN Version
-- Wеb: https://telegramprime.com/ - RU Version
+| Channel | Link |
+|---------|------|
+| Email | manager[@]telegramprime.net |
+| Telegram | [Send message](https://telegramprime.net/telegram-contact) |
+| Matrix | [Send message](https://telegramprime.net/element-contact) |
+| Website (EN) | https://telegramprime.net/ |
+| Website (RU) | https://telegramprime.com/ |
 
+---
 
-## Donations:
-* [Buy us a coffee :)](https://commerce.coinbase.com/checkout/a0495346-539e-48df-9b43-880a3b93dc8b)
-* Thank you!
+## ☕️ Donations
+
+- **Buy us a coffee** – [Click](https://nowpayments.io/donation/telegramprime)
+
+Thank you for your support!  
