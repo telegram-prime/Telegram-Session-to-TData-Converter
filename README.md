@@ -74,7 +74,7 @@ A tool that converts Telegram session files (SESSION or SESSION+JSON) to the TDA
 | Email | manager[@]telegram-converter.com |
 | Telegram | [Send message](https://telegram-converter.com/telegram-contact) |
 | Discord | [Send message](https://telegram-converter.comt/discord-contact) |
-| Matrix | [Send message](https://telegram-converter.com/element-contact) |
+| Matrix | [Send message](https://telegram-converter.com/matrix-contact) |
 | Website | https://telegram-converter.com/ |
 
 ---
