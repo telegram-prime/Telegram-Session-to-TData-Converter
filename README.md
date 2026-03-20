@@ -71,11 +71,11 @@ A tool that converts Telegram session files (SESSION or SESSION+JSON) to the TDA
 
 | Channel | Link |
 |---------|------|
-| Email | manager[@]telegramprime.net |
-| Telegram | [Send message](https://telegramprime.net/telegram-contact) |
-| Matrix | [Send message](https://telegramprime.net/element-contact) |
-| Website (EN) | https://telegramprime.net/ |
-| Website (RU) | https://telegramprime.com/ |
+| Email | manager[@]telegram-converter.com |
+| Telegram | [Send message](https://telegram-converter.com/telegram-contact) |
+| Discord | [Send message](https://telegram-converter.comt/discord-contact) |
+| Matrix | [Send message](https://telegram-converter.com/element-contact) |
+| Website | https://telegram-converter.com/ |
 
 ---
 
