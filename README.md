@@ -5,8 +5,8 @@ A tool that converts Telegram session files (SESSION or SESSION+JSON) to the TDA
 
 ## 📚 Multilingual support
 - English – this page  
-- Русский – [S2TD Converter RU](https://github.com/telegram-converter/Telegram-Session-to-TData-Converter-RU/)  
-- 简体中文 – [S2TD Converter CN](https://github.com/telegram-converter/Telegram-Session-to-TData-Converter-CN)
+- Русский – [S2TD Converter RU](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter-RU/)  
+- 简体中文 – [S2TD Converter CN](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter-CN)
 
 ---
 
@@ -73,7 +73,7 @@ A tool that converts Telegram session files (SESSION or SESSION+JSON) to the TDA
 |---------|------|
 | Email | manager[@]telegram-converter.com |
 | Telegram | [Send message](https://telegram-converter.com/telegram-contact) |
-| Discord | [Send message](https://telegram-converter.comt/discord-contact) |
+| Discord | [Send message](https://telegram-converter.com/discord-contact) |
 | Matrix | [Send message](https://telegram-converter.com/matrix-contact) |
 | Website | https://telegram-converter.com/ |
 
